@@ -36,3 +36,4 @@ python deep_triple_classifier.py
 
 RUNNING HEURISTICS
 
+python newprocess_1.py -np 10000 -c
