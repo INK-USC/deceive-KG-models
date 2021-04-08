@@ -27,8 +27,7 @@ python preprocess.py -p 20
 Then train a grn model using the command:
 python grn.py -ds obqa --encoder bert-base-uncased -bs 64 -mbs 4 -dlr 1e-3
 
-
-Training the triple classifier
+TRAINING THE TRIPLE CLASSIFIER
 
 python Get_neg_triples.py
 
