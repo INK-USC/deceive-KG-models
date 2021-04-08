@@ -34,5 +34,10 @@ python Get_neg_triples.py
 python deep_triple_classifier.py
 
 
+PRUNING GRAPH FOR ONLY USEFUL NODES
+
+python new_graph.py
+
+
 RUNNING HEURISTICS
 
