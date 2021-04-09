@@ -41,3 +41,10 @@ python new_graph.py
 
 RUNNING HEURISTICS
 
+python heuristics.py
+
+The attributes are:
+
+-np --num_pert -> number of perturbations
+
+--type -> type of perturbation("rel" for Relation Swapping, "edge" for Edge Deletion and "edge1" for Edge Rewiring)
