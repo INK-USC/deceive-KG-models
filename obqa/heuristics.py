@@ -310,7 +310,7 @@ output_paths = {
 
 def main5():
     parser1 = argparse.ArgumentParser()
-    parser1.add_argument('--run', default=['common','csqa'], choices=['common', 'csqa', 'hswag', 'anli', 'exp', 'scitail', 'phys', 'socialiqa', 'obqa', 'make_word_vocab'], nargs='+')
+    parser1.add_argument('--run', default=['common','obqa'], choices=['common', 'csqa', 'hswag', 'anli', 'exp', 'scitail', 'phys', 'socialiqa', 'obqa', 'make_word_vocab'], nargs='+')
     parser1.add_argument('--path_prune_threshold', type=float, default=0.12, help='threshold for pruning paths')
     parser1.add_argument('--max_node_num', type=int, default=200, help='maximum number of nodes per graph')
     parser1.add_argument('-p', '--nprocs', type=int, default=cpu_count(), help='number of processes to use')
