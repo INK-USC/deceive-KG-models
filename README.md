@@ -1,5 +1,15 @@
-# deceive-KG-models
-An implementation of the experiments on KG robustness
+# Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation
+
+This is a PyTorch implementation of our ICLR 2021 [paper](https://arxiv.org/abs/2010.12872):
+
+```
+Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation
+Mrigank Raman, Aaron Chan*, Siddhant Agarwal*, Peifeng Wang, Hansen Wang, Sungchul Kim, Ryan Rossi, Handong Zhao, Nedim Lipka, Xiang Ren.
+ICLR 2021.
+*=equal contritbution
+```
+
+**Note: This repo is still under construction. Please check again later!**
 
 ## Getting Started
 
