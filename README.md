@@ -9,7 +9,7 @@ ICLR 2021.
 *=equal contritbution
 ```
 
-**Note: This repo is still under construction. Please check again later!**
+### Note: This repo is still under construction. Please check again later!
 
 ## Getting Started
 
